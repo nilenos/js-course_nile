@@ -1,4 +1,5 @@
 site_name: JavaScript Programming Course
+site_dir: docs
 theme:
   name: material
   language: fi
