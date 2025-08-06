@@ -1,4 +1,5 @@
 site_name: JavaScript Course
+
 theme:
   name: material
   language: fi
@@ -7,10 +8,10 @@ theme:
     primary: blue
     accent: indigo
 
-extra_css:
-  - assets/styles.css
-
 nav:
   - Etusivu: index.md
-  - Moduuli 1: moduuli1.md
-  - Moduuli 2: moduuli2.md
+  - Moduulit:
+      - "Moduuli 1 – Perusteet": moduuli1.md
+      - "Moduuli 2 – Funktiot ja rakenteet": moduuli2.md
+      - "Moduuli 3 – Olio-ohjelmointi ja tapahtumat": moduuli3.md
+      - "Moduuli 4 – Asynkroninen ohjelmointi": moduuli4.md
