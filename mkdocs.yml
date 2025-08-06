@@ -1,10 +1,16 @@
-site_name: JavaScript Programming Course
-site_dir: docs
+site_name: JavaScript Course
 theme:
   name: material
   language: fi
+  palette:
+    scheme: default
+    primary: blue
+    accent: indigo
+
 extra_css:
   - assets/styles.css
+
 nav:
   - Etusivu: index.md
   - Moduuli 1: moduuli1.md
+  - Moduuli 2: moduuli2.md
