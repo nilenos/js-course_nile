@@ -1,0 +1,9 @@
+site_name: JavaScript Programming Course
+theme:
+  name: material
+  language: fi
+extra_css:
+  - assets/styles.css
+nav:
+  - Etusivu: index.md
+  - Moduuli 1: moduuli1.md
